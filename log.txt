@@ -1,0 +1,30 @@
+the gear is spinning
+the gear is spinning
+the gear is spinning
+the gear is spinning
+the gear is spinning
+the gear is spinning
+Incorret cell position 
+Set cell 1 with mechanism: mech.Spring@7cc355be
+Set cell 2 with mechanism: mech.Spring@7cc355be
+the spring is springing
+the spring is springing
+the gear is spinning
+the gear is spinning
+the gear is spinning
+the gear is spinning
+the gear is spinning
+the gear is spinning
+the gear is spinning
+the gear is spinning
+the gear is spinning
+the gear is spinning
+Incorret cell position 
+Set cell 1 with mechanism: mech.Spring@7cc355be
+Set cell 2 with mechanism: mech.Spring@7cc355be
+the spring is springing
+the spring is springing
+the gear is spinning
+the gear is spinning
+the gear is spinning
+the gear is spinning
